@@ -27,7 +27,7 @@ This template is ideal for creating a professional web presence for clinics, hos
 
 ## Project Status
 <span id="goHere"></span>
-This project is in progress and will be updated with additional styling and layout improvements as the course progresses.
+This project is in progress and will be updated with additional styling and layout improvements.
 
 ## Acknowledgments
 Special thanks to [B7Web](https://b7web.com.br) for offering this exercise.
