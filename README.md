@@ -3,13 +3,10 @@
 **Medicenter** is a website template developed as part of the HTML5 and CSS3 course from B7Web. This project serves as practice to solidify foundational skills in web page structuring and styling, especially for healthcare-related websites.
 
 ---
+[![status](https://img.shields.io/badge/status-under%20development-yellow.svg)]
 
-<div align="center">
-    <h1><a href="#goHere">Development in Progress</a></h1>
-    <h3><a href="medicenterproject.vercel.app">Check the website here</a></h3>
-</div>
-
-
+---
+[Check the website here](medicenterproject.vercel.app)
 ## Description
 This template is ideal for creating a professional web presence for clinics, hospitals, and medical services. The design is clean and responsive, focused on presenting information clearly and accessibly. It includes customizable sections like services, team, contact, and testimonials, making it adaptable to various healthcare needs.
 
@@ -26,7 +23,6 @@ This template is ideal for creating a professional web presence for clinics, hos
 </div>
 
 ## Project Status
-<span id="goHere"></span>
 This project is in progress and will be updated with additional styling and layout improvements as the course progresses.
 
 ## Acknowledgments
