@@ -6,7 +6,7 @@
 [![status](https://img.shields.io/badge/status-under%20development-yellow.svg)]
 
 ---
-[Check the website here](medicenterproject.vercel.app)
+[Check the website here](https://medicenterproject.vercel.app)
 ## Description
 This template is ideal for creating a professional web presence for clinics, hospitals, and medical services. The design is clean and responsive, focused on presenting information clearly and accessibly. It includes customizable sections like services, team, contact, and testimonials, making it adaptable to various healthcare needs.
 
